@@ -1,0 +1,1 @@
+{"version":3,"file":"verify-email.schema.js","sourceRoot":"","sources":["../../../src/schema/auth/verify-email.schema.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,CAAC,EAAE,MAAM,KAAK,CAAC;AAExB,MAAM,CAAC,MAAM,iBAAiB,GAAG,CAAC,CAAC,MAAM,CAAC;IACxC,KAAK,EAAE,CAAC,CAAC,MAAM,CAAC;QACd,KAAK,EAAE,CAAC,CAAC,MAAM,EAAE,CAAC,IAAI,CAAC,mCAAmC,CAAC;KAC5D,CAAC;CACH,CAAC,CAAC"}
